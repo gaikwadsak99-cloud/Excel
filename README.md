@@ -76,7 +76,7 @@ Enterprise-Financial-Analytics-Dashboard/
 ├── Images/
 │   └── Dashboard_Screenshot.png
 │
-└── README.md
+└── README.mD
 
 
 
