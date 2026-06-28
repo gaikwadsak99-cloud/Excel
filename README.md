@@ -64,7 +64,9 @@ What is the distribution of Sovereign and Non-Sovereign projects?
 How has project funding changed over time?
 What is the status distribution of projects?
 
- ## Repository Structure
+## Repository Structure
+
+```text
 Enterprise-Financial-Analytics-Dashboard/
 │
 ├── Dataset/
@@ -76,7 +78,8 @@ Enterprise-Financial-Analytics-Dashboard/
 ├── Images/
 │   └── Dashboard_Screenshot.png
 │
-└── README.mD
+└── README.md
+```
 
 
 
