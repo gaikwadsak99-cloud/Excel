@@ -81,6 +81,10 @@ Enterprise-Financial-Analytics-Dashboard/
 └── README.md
 ```
 
+## screenshots 
+<img width="1125" height="731" alt="image" src="https://github.com/user-attachments/assets/ec4c2a20-05d4-4fa7-a60f-840bd9085a00" />
+
+
 
 
 
