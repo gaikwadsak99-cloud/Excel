@@ -49,14 +49,14 @@ Monitored project completion and approval trends.
 Evaluated the proportion of Sovereign and Non-Sovereign investments.
 Provided actionable insights to support strategic investment decisions.
 
-🚀 Future Enhancements
+### 🚀 Future Enhancements
 
 Develop a Power BI version of the dashboard.
 Implement forecasting and trend analysis.
 Automate data refresh using Power Query.
 Build predictive models for investment and project performance analysis.
 
-📊 Key Business Questions Answered
+### 📊 Key Business Questions Answered
 
 Which country received the highest funding?
 Which sector attracted the maximum investment?
@@ -64,7 +64,19 @@ What is the distribution of Sovereign and Non-Sovereign projects?
 How has project funding changed over time?
 What is the status distribution of projects?
 
-
+ ## Repository Structure
+Enterprise-Financial-Analytics-Dashboard/
+│
+├── Dataset/
+│   └── Financial_Project_Dataset.xlsx
+│
+├── Dashboard/
+│   └── Enterprise_Financial_Analytics_Dashboard.xlsx
+│
+├── Images/
+│   └── Dashboard_Screenshot.png
+│
+└── README.md
 
 
 
